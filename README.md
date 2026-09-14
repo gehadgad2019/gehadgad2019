@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gehadgad2019
-- 👀 I’m interested in computer science & programming
-- 🌱 I’m currently learning HTML&CSS
+- 👀 I’m interested in Robotics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gegadgad2019@gmail.com
 
